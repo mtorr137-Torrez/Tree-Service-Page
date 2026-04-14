@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="description" content="Tree services including removal, trimming, and stump grinding.">
+<title>Services | Laguna Tree Service</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+<header><h1>Laguna Tree Service</h1></header>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="services.html">Services</a>
+  <a href="request.html">Request Service</a>
+  <a href="about.html">About</a>
+  <a href="contact.html">Contact</a>
+</nav>
+
+<main>
+  <h2>Our Services</h2>
+
+  <table>
+    <tr>
+      <th>Service</th>
+      <th>Description</th>
+      <th>Price</th>
+    </tr>
+    <tr>
+      <td>Tree Removal</td>
+      <td>Safe removal of trees</td>
+      <td>$200+</td>
+    </tr>
+    <tr>
+      <td>Tree Trimming</td>
+      <td>Cut and shape trees</td>
+      <td>$100+</td>
+    </tr>
+    <tr>
+      <td>Stump Grinding</td>
+      <td>Remove tree stumps</td>
+      <td>$75+</td>
+    </tr>
+  </table>
+
+</main>
+
+<footer>
+  <p>Laguna Tree Service</p>
+</footer>
+
+</body>
+</html>

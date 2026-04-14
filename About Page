@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="description" content="Learn about Laguna Tree Service and our experience.">
+<title>About</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+<header><h1>Laguna Tree Service</h1></header>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="services.html">Services</a>
+  <a href="request.html">Request Service</a>
+  <a href="about.html">About</a>
+  <a href="contact.html">Contact</a>
+</nav>
+
+<main>
+  <h2>About Us</h2>
+  <p>Laguna Tree Service is dedicated to providing high-quality tree care with safety and customer satisfaction as our top priorities.</p>
+</main>
+
+<footer>
+  <p>Laguna Tree Service</p>
+</footer>
+
+</body>
+</html>
